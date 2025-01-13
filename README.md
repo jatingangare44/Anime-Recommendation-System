@@ -33,7 +33,7 @@ The dataset used in this project is the **Anime Dataset**. It contains various f
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/jatingangare44/Anime-Recommendation-System-ML-JG.git
+    git clone https://github.com/jatingangare44/Anime-Recommendation-System
     ```
 
 2. **Create a Conda Environment:**
